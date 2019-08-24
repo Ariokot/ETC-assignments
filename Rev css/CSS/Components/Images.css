@@ -1,0 +1,26 @@
+.img-1{
+    background-image: url(Images/child\ reading.PNG);
+    background-size: cover;
+    background-position: center;
+    height:40vh;
+    width: 30vw;
+       
+}
+
+.img-2{
+    background-image: url(Images/adult-book-series-books-1181672.jpg);
+    background-size: cover;
+    background-position: center;
+    height:40vh;
+    width: 30vw;
+       
+}
+
+.img-3{
+    background-image: url(Images/book-bindings-bookcase-books-1329571.jpg);
+    background-size: cover;
+    background-position: center;
+    height:40vh;
+    width: 30vw;
+       
+}

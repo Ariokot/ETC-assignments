@@ -1,0 +1,92 @@
+body {
+margin:0;
+font-family:Arial, Helvetica, sans-serif;
+font-size:17px;
+color:white;
+line-height: 1.6;
+}
+
+#showcase {
+    background-image: url(Images/Bookstore.jpg);
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 0 20px;
+    position: relative; 
+           
+}
+#showcase h1{
+    font-size: 50px;
+}
+
+
+
+#showcase a {
+    font-size: 18px;
+    text-decoration: none;
+    color:white;
+    border:white thin solid;
+    padding:10px 20px;
+    border-radius:20px;
+    
+}
+
+
+
+#showcase .button-1{
+    position:relative;
+    bottom: 20px;
+
+}
+
+
+.one{
+    background: blue;
+    color: azure;
+    text-align: center;
+}
+
+.two{
+    display: flex;
+    margin: 10px;
+  
+}
+ 
+.two .box-1{
+    background: blue;
+    border: thin solid black;
+    text-align: center;
+    width: 30vw;
+    margin: 10px
+    
+    
+}
+
+.two .box-2{
+    background: blue;
+    border: thin solid black;
+    text-align: center;
+    width: 30vw;
+    margin: 10px    
+   
+}
+
+.two .box-3{
+    background: blue;
+    border: thin solid black;
+    text-align: center;
+    width: 30vw;
+    margin: 10px
+    
+}   
+
+.click{
+    position: relative;
+    left:50px;
+}
+    

@@ -1,0 +1,17 @@
+@import url( Components/sections.css);
+@import url( Components/Images.css);
+
+.grid{
+    display:grid;
+    height: 400px;
+    width: 600px;
+    grid-template: 30% 40% 50% / 30% 40% 50%;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+
+}
+.box{
+    border: thin blue solid;
+    background-color: bisque;
+}
+

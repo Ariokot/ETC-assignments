@@ -1,0 +1,9 @@
+@import url("Components/images.css");
+@import url("Components/Buttons.css");
+@import url("Components/Divs.css");
+
+.col {
+    height:600px;
+    background-color: bisque;
+    border:thin solid green;
+}

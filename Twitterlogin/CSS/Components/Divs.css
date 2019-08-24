@@ -1,0 +1,97 @@
+.main {
+height: 600px;
+display: flex;
+}
+
+
+.left {
+    flex-direction:row;
+    width: 50%;
+    height:100% ;
+    background-image: url(Twitter.jpg);
+    background-size: cover;
+    border-bottom: thin solid grey;
+    
+}
+.left div {
+    padding-right: 200px;
+    padding-left: 140px;
+     
+}
+  
+.right {
+        background-color: white;
+    width: 50%;
+    height:100%;
+    border-bottom: thin solid grey;
+   
+}
+
+.right div {
+    padding: 10px 200px;
+   }
+
+.r-1 {
+    display: flex;
+    margin-bottom: 100px;
+    padding-left: 200px;
+    
+   
+}
+.r-2 {
+    padding:20px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+
+
+
+.instructions{
+    margin-bottom: 5px;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form-inline{
+    display: flex;
+    margin:5px;
+    padding-left:1px;
+  
+}
+.l-1{
+    padding-top: 150px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+      }
+
+.heading-2{
+    line-height: 2;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.heading-1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 13px;
+    
+}
+
+
+.footer li {
+    display: inline-block;
+    padding-top:2px;
+    padding-left:30px;
+    padding-right: 40px;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    position: relative;
+    bottom:15px;
+   
+}
+    

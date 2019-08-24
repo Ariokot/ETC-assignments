@@ -1,0 +1,23 @@
+.col {
+height:  500px; 
+margin: 20px;  
+background-image: url(Bookstore.jpg);
+background-size:cover;
+background-position:center;
+position: relative
+}
+
+.p-1 {
+    position: relative;
+    left: 685px;
+    height: 500px;
+    width: 440px;
+    background-color:aquamarine;
+    opacity: 0.7;
+    color: red;
+    
+}
+.left {
+    color: white;
+    font-size: 100px;
+}
